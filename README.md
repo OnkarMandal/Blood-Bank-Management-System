@@ -1,4 +1,9 @@
 # Blood-Bank-Management-System
+
+To run the website- 
+1) Open the file with Visual Studio Code
+2) Open terminal in VS Code and write cd Control_Panel then write py manage.py runserver
+3) In the URL of google chrome write 
 It is a Full-stack web development-based website. 
 
 The Blood Bank Management System is an online platform where users can send blood requests.
